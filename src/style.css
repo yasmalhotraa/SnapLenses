@@ -112,6 +112,7 @@ button:focus-visible {
 .canvas {
   border: 1px solid #ccc;
   display: block;
+  object-fit: cover;
   margin-bottom: 10px;
   width: 100%;
   max-width: 640px;
