@@ -1,6 +1,6 @@
 window.onload = function () {
   var ua = navigator.userAgent || navigator.vendor || window.opera;
-  var targetUrl = "https://yourdomain.com"; // <-- change to your actual website
+  var targetUrl = "https://snap-lenses.vercel.app/";
 
   if (ua.indexOf("Instagram") > -1) {
     // 🚀 Detected Instagram in-app browser
